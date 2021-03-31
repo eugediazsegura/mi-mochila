@@ -1,0 +1,19 @@
+Mochila de Viajero
+
+1. ¿Quién inventó el sistema de control de versión Git y por qué?
+Fue creado por Linus Torvalds, para ser utilizado en el desarrollo del kernel de Linux.
+Originalmente, la comunidad de desarrolladores de Linux utilizaba 
+BitKeeper,un sistema de control de versiones distriuido y comercial, aunque era gratuito para proyectos de código abierto. Este era un gran paso en 
+comparación con otros sistemas de control de version, inspirando muchos de los conceptos en los que se basa git, sin embargo, al ser un software propietario
+llevaron a Linus a  buscar un nuevo sistema de control de versiones.
+
+2. ¿A quién pertenece actualmente Github y por qué?
+
+El 4 de junio de 2018, Microsoft anuncia la compra de la compañia. Con esta adquisición Microsoft hace un acercamiento a un cambio de mentalidad con
+respecto al Open Source. De esta manera, la empresa se garantiza no perder desalloradores que optan por trabajar con este tipo de entornos basando su 
+trabajo en Windows sin preder eficacia.
+
+3. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+Existe una aplicación la cual cuenta con una interfaz que permite de manera amigable poder realizar las mismas acciones que pueden realizarse a través
+de la consola por linea de comandos. Así también existen extensiones de Visual Studio Code que permiten trabajar con Github, como es el caso de Hit Graph o 
+Git Flow.
